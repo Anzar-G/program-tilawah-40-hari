@@ -2,7 +2,7 @@ import { BookOpen, Calendar, CheckCircle, Heart, MessageCircle, Shield, Star, Us
 
 export const CONTACT_INFO = {
   whatsapp: "https://wa.me/6285129940137",
-  phone: "+62 851-2994-0137",
+  phone: "085129940137",
   email: "pondokdigitalpreneur@gmail.com",
   address: "Kota Cirebon, Jawa Barat",
   instagram: "https://www.instagram.com/pondokabdurrahmanbinauf/",
