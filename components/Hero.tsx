@@ -64,7 +64,7 @@ const Hero: React.FC = () => {
           className="inline-flex items-center gap-2 bg-emerald-600/20 border border-emerald-500/30 rounded-full px-4 py-1.5 mb-8 backdrop-blur-sm"
         >
           <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-          <span className="text-emerald-100 text-sm font-medium tracking-wide">Batch 2 Dimulai 1 Desember 2025</span>
+          <span className="text-emerald-100 text-sm font-medium tracking-wide">Batch 2 Dimulai 27 November 2025</span>
         </motion.div>
 
         <motion.h1 

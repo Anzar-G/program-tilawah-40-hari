@@ -50,11 +50,11 @@ const HowItWorks: React.FC = () => {
               <div className="grid grid-cols-2 md:grid-cols-3 gap-6 text-left">
                 <div>
                     <p className="text-xs text-slate-400 uppercase font-bold tracking-wider">Mulai</p>
-                    <p className="font-semibold text-slate-800">1 Des 2025</p>
+                    <p className="font-semibold text-slate-800">27 Nov 2025</p>
                 </div>
                 <div>
                     <p className="text-xs text-slate-400 uppercase font-bold tracking-wider">Selesai</p>
-                    <p className="font-semibold text-slate-800">9 Jan 2025</p>
+                    <p className="font-semibold text-slate-800">6 Jan 2026</p>
                 </div>
                  <div>
                     <p className="text-xs text-slate-400 uppercase font-bold tracking-wider">Biaya</p>
