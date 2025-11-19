@@ -48,7 +48,7 @@ const SocialProof: React.FC = () => {
                   <p className="text-sm text-emerald-200">Alumni Batch 1</p>
                 </div>
                 <div className="bg-emerald-900/50 p-4 rounded-xl">
-                  <p className="text-3xl font-bold text-emerald-400">2500+</p>
+                  <p className="text-3xl font-bold text-emerald-400">25.000+</p>
                   <p className="text-sm text-emerald-200">Halaman Dibaca</p>
                 </div>
              </div>
