@@ -1,0 +1,25 @@
+/* Global styles for smooth anchor scrolling and fixed navbar offset */
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  /* Fixed navbar height (64px) + small margin */
+  --nav-offset: 72px;
+}
+
+/* Ensure sections with anchors are not hidden behind the fixed navbar */
+section[id] {
+  scroll-margin-top: var(--nav-offset);
+}
+
+/* Minor sensible defaults */
+body {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
